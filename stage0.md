@@ -2,7 +2,7 @@
 
 > *“思维无内容则空，直观无概念则盲。”*
 *(Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind.)*
-——伊曼努尔·康德 《纯粹理性批判》
+>   ——伊曼努尔·康德 《纯粹理性批判》
 
 ## Introduction
 本阶段在两周内完成。
